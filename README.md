@@ -1,16 +1,85 @@
-## Hi there 👋
+<!-- Banner Typing GIF -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Jigar+Shah!;IT+Engineer+%7C+Web+Developer+%7C+Sports+Enthusiast;Sneaker+Reseller+%7C+React+Native+Learner" alt="Typing SVG" />
+</p>
 
-<!--
-**JigarShah45/JigarShah45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+- 🎓 IT Engineering Student passionate about web development and technology  
+- 🌱 Currently learning **React Native & Cloud Services**  
+- 👟 Sneakerhead & founder of *Steal Your Kicks*  
+- 💬 Ask me about **Web Development, React, Node.js!**  
+- 📫 Reach me at **jjshah215@gmail.com**  
+- ⚡ **Fun Fact:** *I believe life’s better when there’s a game to win — whether it’s cricket on turf, a badminton rally, or a chess match after dinner.*
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
+</p>
+
+### 🖥️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java" />
+</p>
+
+### 🗄️ Database  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 📱 Mobile / Cross-platform  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+### 🛠️ Other Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jigarshah45&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jigarshah45&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigarshah45&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📱 Connect with Me  
+
+<p align="center">
+  <a href="https://twitter.com/jigarshah_21" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/jigar-shah-5a892a371" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/jigarrrr_21" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## 👁️‍🗨️ Profile Visitors  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JigarShah45&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
