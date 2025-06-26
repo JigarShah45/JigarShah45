@@ -14,10 +14,9 @@
 
 - 🎓 IT Engineering Student passionate about web development and technology  
 - 🌱 Currently learning **React Native & Cloud Services**  
-- 👟 Sneakerhead & founder of *Steal Your Kicks*  
 - 💬 Ask me about **Web Development, React, Node.js!**  
 - 📫 Reach me at **jjshah215@gmail.com**  
-- ⚡ **Fun Fact:** *I believe life’s better when there’s a game to win — whether it’s cricket on turf, a badminton rally, or a chess match after dinner.*
+- ⚡ **Fun Fact:** *I believe life’s better when there’s a game to win.*
 
 ---
 
