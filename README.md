@@ -1,6 +1,6 @@
 <!-- Banner Typing GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Jigar+Shah!;IT+Engineer+%7C+Web+Developer+%7C+Sports+Enthusiast;Sneaker+Reseller+%7C+React+Native+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Jigar+Shah!;IT+Engineer+%7C+Web+Developer+%7C+Sports+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- Coding GIF -->
@@ -23,29 +23,14 @@
 
 ## 🛠️ Tech Stack  
 
-### 💻 Frontend  
 <p align="center">
+  <b>Frontend:</b><br>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
 </p>
 
-### 🖥️ Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java" />
-</p>
-
-### 🗄️ Database  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### 📱 Mobile / Cross-platform  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" />
-</p>
-
-### 🛠️ Other Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <b>Backend & Others:</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java,mongodb,mysql,firebase,flutter,git,github" />
 </p>
 
 ---
